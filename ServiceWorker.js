@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-UrbanHarvest-0.1";
+const cacheName = "DefaultCompany-Abdul Khalid Business Card-0.1";
 const contentToCache = [
     "Build/FYVisiting-card.loader.js",
     "Build/FYVisiting-card.framework.js",
